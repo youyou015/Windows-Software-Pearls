@@ -6,3 +6,5 @@
 | [PotPlayer](https://potplayer.daum.net/) | Free | Multimedia player |
 | [ShareX](https://github.com/ShareX/ShareX) | Free, Open Source  | Screen capture, file sharing and productivity tool |
 | [Bandizip](https://www.bandisoft.com/bandizip/) | Free | All-In-One Free Zip Archiver |
+| [Cmder](http://cmder.net/)/[ConEmu](http://conemu.github.io/) | Free, Open Source | Windows console emulator |
+| [Sublime Text](http://www.sublimetext.com/) | Free to use, need purchuse license | Sublime Text is a sophisticated text editor for code, markup and prose. |
